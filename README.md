@@ -10,7 +10,7 @@
 
   <h3 align="center">Space DodgeBall Video Game</h3>
   
-  ![](https://github.com/tuxedocurly/Space-DodgeBall-Game/blob/main/images/SpaceDodgeBallDemo.gif)
+  ![](https://github.com/tuxedocurly/Space-DodgeBall-Game/blob/main/Demo/SpaceDodgeBallGameDemo.gif)
 
   <p align="center">
     A simple Java2D game. Navigate your ship carefully to avoid the enemies and survive the perils of space!
